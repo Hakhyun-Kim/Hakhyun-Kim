@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Hakhyun-Kim
 - 👀 I’m interested in making games, and game engines
-- 🌱 I’m currently learning Unity3D in depth
 - 📫 How to reach me  - kimhakhyun@gmail.com
 
 <!---
